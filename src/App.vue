@@ -65,6 +65,9 @@ export default {
   &--image {
     height: 25vh;
     width: 100%;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   &-enter-active {
     opacity: 0;
